@@ -10,14 +10,15 @@
 
 Para executar o projeto no terminal, digite o seguinte comando:
 
-```shell script
+```
 mvn spring-boot:run 
+
 ```
 
 Após executar o comando acima, basta apenas abrir o seguinte endereço e visualizar a execução do projeto:
 
 ```
-http://localhost:8080/api/v1/people
+http://localhost:8081/api/v1/people
 
 ```
 Pré-requisitos para a execução do projeto desenvolvido:
@@ -41,9 +42,9 @@ Abaixo, seguem links bem bacanas:
 
 
 # Para Acessar o banco h2 console após execultar o projeto.
-* http://localhost:8080/h2-console   
-* em seguida no caminho  JDBC URL Adicionar : jdbc:h2:mem:testdb esse caminho é exibido no console quando levantamos o projeto, depois é só se conectar em conect. <br />
-
+* http://localhost:8081/h2-console  
+* Nome do banco de dados: testdb
+* Adicionar na URL o nome do banco desta forma : jdbc:h2:mem:testdb
 # Padrão DTO utilizado neste projeto. 
 Um dos objetivos de receber uma classe dto como argumento é o tratamento de exceção <br />
 Se fossemos receber uma classe de entidade de banco de dados e ocorrer algum tipo de exceção <br />
@@ -54,3 +55,28 @@ disponibiliza através de uma unica interface,  faz uma conversão de um objeto 
 é preciso adicionar a dependencia mapstruct no pom.xml
 
 
+# Postman 🚀🚀
+
+### Registrando um aluno na base de dados utilizando o Postamn 
+
+* POST - Create
+
+http://localhost:8081/api/v1/people
+
+`````
+{
+      
+        "firstName": "Renato",
+        "lastName": "Ferreira",
+        "cpf": "330.903.750-95",
+        "birthDate": "01-01-2001",
+        "phones":[
+            {
+                "type": "MOBILE",
+                "number": "(81)888888888"
+            }
+        ]
+
+}
+
+````
