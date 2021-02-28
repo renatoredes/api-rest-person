@@ -84,7 +84,7 @@ http://localhost:8081/api/v1/people
  ![](https://github.com/renatoredes/api-rest-person/blob/main/screenshot/post.png)
 
 
- # Outras operações podem ser realizadas conforme print de exemplo do Postan
+ # Outras operações podem ser realizadas conforme print de exemplo do Postman
 * GET
 * PUT
 * DELETE
