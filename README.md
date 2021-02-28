@@ -1,2 +1,2 @@
 # api-rest-person
-Crud pessoa utlizando Spring Boot
+Crud person utlizando Spring Boot
