@@ -63,7 +63,7 @@ disponibiliza através de uma unica interface,  faz uma conversão de um objeto 
 
 http://localhost:8081/api/v1/people
 
-`````
+`
 {
       
         "firstName": "Renato",
@@ -78,6 +78,7 @@ http://localhost:8081/api/v1/people
         ]
 
 }
-````
+
+`
 
  ![](https://github.com/renatoredes/api-rest-person/blob/main/screenshot/post.png)
