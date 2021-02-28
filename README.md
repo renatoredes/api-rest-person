@@ -59,7 +59,7 @@ disponibiliza através de uma unica interface,  faz uma conversão de um objeto 
 
 ### Registrando um aluno na base de dados utilizando o Postamn 
 
-* POST - Create
+* POST - Create 
 
 http://localhost:8081/api/v1/people
 
@@ -82,3 +82,9 @@ http://localhost:8081/api/v1/people
 ```
 
  ![](https://github.com/renatoredes/api-rest-person/blob/main/screenshot/post.png)
+
+
+ # Outras operações podem ser realizadas conforme print de exemplo do Postan
+* GET
+* PUT
+* DELETE
