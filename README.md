@@ -78,5 +78,6 @@ http://localhost:8081/api/v1/people
         ]
 
 }
-
 ````
+
+ ![](https://github.com/renatoredes/api-rest-person/blob/main/screenshot/post.png)
