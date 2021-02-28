@@ -41,21 +41,21 @@ Abaixo, seguem links bem bacanas:
 * [Referência para o padrão arquitetural REST](https://restfulapi.net/)
 
 
-# Para Acessar o banco h2 console após execultar o projeto.
+### Para Acessar o banco h2 console após execultar o projeto.
 * http://localhost:8081/h2-console  
 * Nome do banco de dados: testdb
 * Adicionar na URL o nome do banco desta forma : jdbc:h2:mem:testdb
-# Padrão DTO utilizado neste projeto. 
+### Padrão DTO utilizado neste projeto. 
 Um dos objetivos de receber uma classe dto como argumento é o tratamento de exceção <br />
 Se fossemos receber uma classe de entidade de banco de dados e ocorrer algum tipo de exceção <br />
 Iriamos ter exceção expecificas do banco de dados em nossa aplicação e seria algo mais complicado de tratar. <br />
 
-# map struct biblioteca.org
+### map struct biblioteca.org
 disponibiliza através de uma unica interface,  faz uma conversão de um objeto de uma entidade para um DTO e de um DTO para uma entidade.
 é preciso adicionar a dependencia mapstruct no pom.xml
 
 
-# Postman 🚀🚀
+### Postman 🚀🚀
 
 ### Registrando um aluno na base de dados utilizando o Postamn 
 
