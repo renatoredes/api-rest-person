@@ -3,9 +3,9 @@
 ### Pontos importantes do projeto
 * Setup inicial de projeto com o Spring Boot Initialzr 
 * Criação de modelo de dados para o mapeamento de entidades em bancos de dados
-* Foi implementado de operações (Cadastro, leitura, atualização e exclusão de pessoas de um sistema).
+* Operações implementadas (Cadastro, leitura, atualização e exclusão de pessoas de um sistema).
 * Relação de cada uma das operações acima com o padrão arquitetural REST.
-* Foi implementado testes unitários para validação das funcionalidades
+* Testes unitários implementado para validação das funcionalidades
 * Implantação do sistema na nuvem através do Heroku
 
 Para executar o projeto no terminal, digite o seguinte comando:
@@ -18,10 +18,9 @@ Após executar o comando acima, basta apenas abrir o seguinte endereço e visual
 
 ```
 http://localhost:8080/api/v1/people
+
 ```
-
-
-São necessários os seguintes pré-requisitos para a execução do projeto desenvolvido:
+Pré-requisitos para a execução do projeto desenvolvido:
 
 * Java 11 ou versões superiores.
 * Maven 3.6.3 ou versões superiores.
@@ -31,8 +30,6 @@ Abaixo, seguem links bem bacanas:
 
 * [SDKMan! para gerenciamento e instalação do Java e Maven](https://sdkman.io/)
 * [Referência do Intellij IDEA Community, para download](https://www.jetbrains.com/idea/download)
-
-
 * [Site oficial do Spring](https://spring.io/)
 * [Site oficial do Spring Initialzr, para setup do projeto](https://start.spring.io/)
 * [Site oficial do Heroku](https://www.heroku.com/)
