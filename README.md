@@ -57,7 +57,7 @@ disponibiliza através de uma unica interface,  faz uma conversão de um objeto 
 
 ### Postman 🚀🚀
 
-### Registrando um aluno na base de dados utilizando o Postamn 
+### Registrando uma pessoa na base de dados utilizando o Postamn 
 
 * POST - Create 
 
