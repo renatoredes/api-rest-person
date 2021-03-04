@@ -48,7 +48,5 @@ public class PersonDTO {
     @NotEmpty
     private List<PhoneDTO> phones;
     
-    @Valid
-    @NotEmpty
     private List<EmailDTO> emails;
 }

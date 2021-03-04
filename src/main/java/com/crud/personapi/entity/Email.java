@@ -27,7 +27,6 @@ public class Email {
     private Long id;
 	
 	@Enumerated(EnumType.STRING)
-    @Column(nullable = false)
     private EmailType type;
 
     @Column(nullable = false)

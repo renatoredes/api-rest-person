@@ -34,7 +34,7 @@ public class EmailDTO {
     @Enumerated(EnumType.STRING)
     private EmailType type;
 
-    @NotEmpty
+   
     @Email
     private String contact;
 }
