@@ -60,7 +60,6 @@ disponibiliza através de uma unica interface,  faz uma conversão de um objeto 
 ### Registrando uma pessoa na base de dados utilizando o Postamn 
 
 * POST - Create 
-
 http://localhost:8081/api/v1/people
 
 ```
