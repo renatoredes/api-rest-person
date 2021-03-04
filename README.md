@@ -80,15 +80,14 @@ http://localhost:8081/api/v1/people
 }
 
 ```
-
- ![](https://github.com/renatoredes/api-rest-person/blob/main/screenshot/post.png)
+![](https://github.com/renatoredes/api-rest-person/blob/main/screenshot/post.png)
 
 * Put - Update
- ![](https://github.com/renatoredes/api-rest-person/blob/main/screenshot/update.png)
+![](https://github.com/renatoredes/api-rest-person/blob/main/screenshot/update.png)
  
- * Get - List
- 
- ![](https://github.com/renatoredes/api-rest-person/blob/main/screenshot/get.png)
+
+* Get - List
+![](https://github.com/renatoredes/api-rest-person/blob/main/screenshot/get.png)
  
 ### Outras operações podem ser realizadas conforme print de exemplo do Postman
 * GET
