@@ -51,4 +51,8 @@ public class PersonDTO {
     @Valid
     @NotEmpty
     private List<EmailDTO> emails;
+    
+    @Valid
+    @NotEmpty
+    private List<AddressDTO> addresses;
 }

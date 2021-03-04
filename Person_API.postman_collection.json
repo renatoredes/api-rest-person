@@ -12,7 +12,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"firstName\": \"Renato\",\n    \"lastName\": \"Ferreira\",\n    \"cpf\": \"330.903.750-95\",\n    \"birthDate\": \"01-01-2001\",\n    \"phones\":[\n        {\n            \"type\": \"MOBILE\",\n            \"number\": \"(81)888888888\"\n        }\n    ]\n}",
+					"raw": "{\n    \"firstName\": \"Renato\",\n    \"lastName\": \"Ferreira\",\n    \"cpf\": \"330.903.750-95\",\n    \"birthDate\": \"01-01-2001\",\n    \"phones\":[\n        {\n            \"type\": \"MOBILE\",\n            \"number\": \"(81)888888888\"\n        }\n    ],\n    \"emails\":[\n        {\n            \"type\": \"PERSONAL\",\n            \"contact\": \"me@email.com\"\n        }\n    ],\n    \"addresses\":[\n        {\n            \"type\": \"HOME\",\n            \"street\": \"Rua do Sol\",\n            \"number\": \"123\",\n            \"complement\": \"Bloco A\",\n            \"district\": \"Bairro do Recife\",\n            \"city\": \"Recife\",\n            \"state\": \"Pernambuco\",\n            \"country\": \"Brasil\",\n            \"zipCode\":\"51000-000\"\n        }\n    ]\n}",
 					"options": {
 						"raw": {
 							"language": "json"
