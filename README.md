@@ -30,7 +30,6 @@ Pré-requisitos para a execução do projeto desenvolvido:
 Abaixo, seguem links bem bacanas:
 
 * [SDKMan! para gerenciamento e instalação do Java e Maven](https://sdkman.io/)
-* [Referência do Intellij IDEA Community, para download](https://www.jetbrains.com/idea/download)
 * [Site oficial do Spring](https://spring.io/)
 * [Site oficial do Spring Initialzr, para setup do projeto](https://start.spring.io/)
 * [Site oficial do Heroku](https://www.heroku.com/)
