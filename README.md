@@ -40,6 +40,10 @@ Abaixo, seguem links bem bacanas:
 * [Documentação oficial do Map Struct](https://mapstruct.org/)
 * [Referência para o padrão arquitetural REST](https://restfulapi.net/)
 
+## Banco de dados:
+Neste exemplo no pom.xml adicionei o H2 para testes locais.
+Porém nada impede que você adicione qualquer outro banco de dados de sua preferência. ☺️
+
 
 ### Para Acessar o banco h2 console após execultar o projeto.
 * http://localhost:8081/h2-console  
